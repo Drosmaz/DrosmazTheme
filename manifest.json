@@ -1,7 +1,8 @@
 {
     "name": "DrosmazTheme",
-    "version": "9.1.0",
-    "minAppVersion": "0.1.0",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
     "author": "drosmaz",
-    "authorUrl": "https://github.com/Drosmaz"
+    "authorUrl": "https://github.com/Drosmaz",
+    "description": "Una breve descrizione del tuo tema."
 }
