@@ -4,6 +4,6 @@
     "minAppVersion": "1.0.0",
     "author": "Drosmaz",
     "authorUrl": "https://github.com/Drosmaz",
-    "src": "screenshots/image.png"
+    "screenshot": "screenshots/image.png"
 
 }
