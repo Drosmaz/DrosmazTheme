@@ -1,4 +1,4 @@
-<img src="screenshots/screen.png"/>
+<img src="https://github.com/Drosmaz/DrosmazTheme/blob/main/screenshots/screen.png"/>
 
 DrosmazTheme is my personal [Obsidian](https://obsidian.md) theme.
 Currently it's a work in progress, and it only have the dark theme (probably i will never make the light one, i would never use it anyway).
